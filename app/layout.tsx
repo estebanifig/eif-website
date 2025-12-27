@@ -44,6 +44,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </header>
         <main className="max-w-5xl mx-auto p-10">{children}</main>
+        <Analytics />
       </body>
     </html>
   );
