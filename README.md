@@ -1,3 +1,14 @@
+# Notes
+
+## TODO
+- Decide on to keep the Home tab or not, maybe not necessary with About Me
+- Make About Me nicer, matching colors, better layout, better highlights sections with pictures and containers
+- Project layout improvements, what should be wide/narrow, how to organize media
+- Keep Photography or throw out?
+- Backend for Contact Me?
+
+# Next.js Generated
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
